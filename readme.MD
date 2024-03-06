@@ -6,7 +6,7 @@ Sebelum menjalankan aplikasi, pastikan kamu telah menginstal:
 ### Instalasi
 1. Klon repositori ini menggunakan Git:
    ```bash
-   git clone https://github.com/Kelompok-2-Project/BACK-END.git
+   git clone https://github.com/lendral3n/Snake-Game-Terminal.git
 
 2. Masuk ke direktori aplikasi:
     ```
